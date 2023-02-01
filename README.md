@@ -1,4 +1,4 @@
-# synaptic_plasticity
+# ``R`` code Inferring synaptic plasticity
 Code used to fit Bayesian model for inferring synaptic plasticity in spike data.
 
 To run the model: Open the file "run_model.R" and follow the instructions.
