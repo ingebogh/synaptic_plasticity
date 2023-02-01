@@ -2,6 +2,8 @@
 # load all functions for inference
 source("all_functions.R")
 
+library("truncnorm") # this package is needed
+
 # generating data ####
 
 # setting values
